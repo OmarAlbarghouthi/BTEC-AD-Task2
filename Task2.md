@@ -169,3 +169,13 @@ When multiple people collaborate on a project, it can be hard to keep track of r
 GitHub can integrate with popular platforms like Amazon and Google Cloud, services like Code Climate to keep track of your observations, and it can highlight syntax in more than 200 different programming languages.
 ____
 ____
+
+# **Q 3.**
+
+### **Why did we use the 3 tools (VScode, Linux, GitHub) based on our project regarding the underlying problem?**
+
+The main reason for using these tools is to study them and know the difference between them and other tools.
+
+* As for the VS code, we used it because it supports development processes such as debugging, version control, and running tasks.
+* As for Linux, linux helps us use old and old computer systems as a firewall, and it is also secure, and it also helps that it is a file server and backup server.
+* Finally, GitHub, GitHub helps us save our work on it and also controls versioning and collaboration, and allows us as a group to work together on projects from anywhere.

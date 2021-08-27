@@ -56,15 +56,7 @@ _____
 About testing technique we didn't completed it yet, you will find it in "Stage 3".
 ____
 
-# **Task 2.3**
 
-### **Why did we use the 3 tools (VScode, Linux, GitHub) based on our project regarding the underlying problem?**
-
-The main reason for using these tools is to study them and know the difference between them and other tools.
-
-* As for the VS code, we used it because it supports development processes such as debugging, version control, and running tasks.
-* As for Linux, linux helps us use old and old computer systems as a firewall, and it is also secure, and it also helps that it is a file server and backup server.
-* Finally, GitHub, GitHub helps us save our work on it and also controls versioning and collaboration, and allows us as a group to work together on projects from anywhere.
 
 
 
